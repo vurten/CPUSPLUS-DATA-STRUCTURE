@@ -1,0 +1,39 @@
+-bash-4.2$ ./TP2
+Entrez votre requete : allo
+0 : The Ray of Madness
+0 : The Soul-Snatcher
+0 : Brigands of the Moon (partie 2)
+0 : Vampires of Venus
+0 : Monsters of Moyen
+Entrez votre requete : madness
+2.75702 : The Beetle Horde (partie 2)
+1.37851 : The Ray of Madness
+1.37851 : The Soul-Snatcher
+1.37851 : Brigands of the Moon (partie 2)
+1.37851 : Vampires of Venus
+Entrez votre requete : moon venus mars
+156.667 : Vampires of Venus
+150.58 : Brigands of the Moon (partie 1)
+85.1348 : Brigands of the Moon (partie 2)
+17.8617 : The Ray of Madness
+12.0463 : Into Space
+Entrez votre requete : space monster
+20.9055 : Vandals of the Stars
+8.93579 : The Beetle Horde (partie 1)
+8.44676 : Spawn of the Stars
+8.44676 : Tanks
+7.70484 : The Cave of Horror
+Entrez votre requete : horror star
+8.2689 : The Soul Master
+6.56846 : Brigands of the Moon (partie 1)
+5.88266 : The Corpse on the Grating
+5.77305 : Creatures of the Light
+4.86803 : The Beetle Horde (partie 1)
+Entrez votre requete : beetle
+115.273 : The Beetle Horde (partie 1)
+68.5405 : The Beetle Horde (partie 2)
+6.23095 : Vampires of Venus
+0 : The Ray of Madness
+0 : The Soul-Snatcher
+Entrez votre requete : 
+-bash-4.2$ 
